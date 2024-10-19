@@ -1,0 +1,17 @@
+.hero-section {
+    background: url("./assets/hero-bg.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.campaign-section {
+    background: url("./assets/campaign-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.faq-section {
+    background: url("./assets/word-map.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
